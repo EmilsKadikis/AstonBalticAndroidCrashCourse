@@ -22,8 +22,6 @@
         <activity android:name=".activities.counter.CounterActivity">
         </activity>
         <!--TODO 4: Add ListActivity to manifest-->
-        <activity android:name=".activities.list.ListActivity">
-        </activity>
         <activity android:name=".activities.comic.ComicActivity">
         </activity>
 
